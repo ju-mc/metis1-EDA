@@ -24,7 +24,7 @@ so it's possible I'll add another dimension to this project as I progress.
 
 Tools: 
 - I imagine that python/pandas/sql will be adequate. I don't think I'd need to do anything too fancy to 
-the data to get the insights I'm looking for. 
+the data to get the insights I'm looking for.
 
 MVP Goal: 
 - The absolute minimum would be to simply view the volume of people commuting through particular stations at particular times, 
